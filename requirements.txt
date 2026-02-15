@@ -1,0 +1,7 @@
+aiogram==3.15.0
+groq==0.15.0
+python-dotenv==1.0.1
+pyautogui==0.9.54
+mss==9.0.2
+aiosqlite==0.20.0
+apscheduler==3.10.4
