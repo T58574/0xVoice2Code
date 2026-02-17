@@ -8,8 +8,6 @@ build/
 *.egg
 
 
-CLAUDE.md
-
 # Virtual environment
 .venv/
 venv/
